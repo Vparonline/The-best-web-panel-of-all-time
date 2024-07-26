@@ -8,7 +8,7 @@ Ufak Ssler
 ![Adsız](https://github.com/user-attachments/assets/62858054-a79c-4002-9991-e7a298c4bf88)<br>
 
 3D Ödeme Sistemi
-![image](https://github.com/user-attachments/assets/7e3cb48f-9898-4461-88e5-866fef27b74d)<r>
+![image](https://github.com/user-attachments/assets/7e3cb48f-9898-4461-88e5-866fef27b74d)<br>
 
 Profil
 ![image](https://github.com/user-attachments/assets/18182a59-c0b3-499f-824b-2a113267bf7d)
@@ -32,7 +32,7 @@ Burası Kendi Botuma Kurulum Yaptığım Api
 Her bota özel kurulum sistemi yazmak mı ? :D
 
 Veritabanını mı sildiler tüh?
-![image](https://github.com/user-attachments/assets/28f1b924-5495-442b-a46c-3da99ac16fb7)v
+![image](https://github.com/user-attachments/assets/28f1b924-5495-442b-a46c-3da99ac16fb7)<br>
 
 Güvenlik her zaman lazım xd 
 ![image](https://github.com/user-attachments/assets/df9a4dc5-a19a-450e-b433-9f87407a69d1)<br>
