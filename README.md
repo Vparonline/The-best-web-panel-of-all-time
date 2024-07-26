@@ -1,6 +1,6 @@
 # :)
 
-Bakıyorum herkes eski <a href="https://github.com/Vparonline/sectwist.site-web"> web panelimi </a> ben yaptım diye kullanmaya başlamış 3, 5, 10 tane repo açılmış ee madem açıldıysa hakkınıda vermek gerekiyor bazı şeylerin değil mi ?
+Bakıyorum herkes eski <a href="https://github.com/Vparonline/sectwist.site-web"> web panelimi </a> ben yaptım diye kullanmaya başlamış 3, 5, 10 tane repo açılmış ee madem açıldıysa hakkınıda vermek gerekiyor bazı şeylerin değil mi ? Birden fazla ayrı ayrı setup lu botun kurulumunu yapmaya başlayabilirsiniz :D Çalıntı ile yapmaya benzemez 😘😘
 
 Ufak Ssler
 İndex
