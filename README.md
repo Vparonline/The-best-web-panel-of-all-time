@@ -2,6 +2,8 @@
 
 Bakıyorum herkes eski <a href="https://github.com/Vparonline/sectwist.site-web"> web panelimi </a> ben yaptım diye kullanmaya başlamış 3, 5, 10 tane repo açılmış ee madem açıldıysa hakkınıda vermek gerekiyor bazı şeylerin değil mi ? Birden fazla ayrı ayrı setup lu botun kurulumunu yapmaya başlayabilirsiniz :D Çalıntı ile yapmaya benzemez 😘😘
 
+Yüksek star gelirse sizindir aşklarım bilgi almak isteyen olursa hesabı biliyor muah
+
 Ufak Ssler
 İndex
 ![image](https://github.com/user-attachments/assets/cbc26d1f-012b-480f-a1e9-1b0d1b74cdf2)
